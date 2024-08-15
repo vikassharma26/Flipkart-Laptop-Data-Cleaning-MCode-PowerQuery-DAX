@@ -43,6 +43,8 @@ The main objective was to clean and transform this dataset to make it suitable f
 - **Challenge**: Warranty information was unstructured and inconsistent in the description.
 - **Solution**: Used a custom M code function to extract warranty terms from the product description reliably.
 
+### 4. Removed Irrelevant Columns Like Product Image , URL etc
+
 ## Visualizations in Power BI
 
 1. **Brand with Highest Warranty**: A visual representation of the brands with the longest warranties.
