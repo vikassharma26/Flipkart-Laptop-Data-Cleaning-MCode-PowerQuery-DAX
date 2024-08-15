@@ -2,6 +2,7 @@
 
 This repository showcases the end-to-end data cleaning, transformation, and analysis process performed on a real-life Flipkart laptop dataset. The project highlights the use of **Power BI**, **Power Query**, **M Code**, and **DAX** to handle messy, unstructured data and derive meaningful insights.
 
+## Public Dataset Link : https://www.kaggle.com/datasets/mrmars1010/flipkart-product-datalaptops
 ## Project Overview
 
 ### Dataset:
