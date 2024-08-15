@@ -40,7 +40,7 @@ The main objective was to clean and transform this dataset to make it suitable f
 - **Solution**: Applied Power Query's delimiter functions and M code to clean and update the processor column.
 
 ### 4. Warranty Extraction
-- **Challenge**: Warranty information was unstructured and inconsistent in the product name.
+- **Challenge**: Warranty information was unstructured and inconsistent in the description.
 - **Solution**: Used a custom M code function to extract warranty terms from the product description reliably.
 
 ## Visualizations in Power BI
